@@ -1,4 +1,4 @@
-<h1> Hallo i'm Maharani </h1>
+<h1 align="center"> Hallo i'm Maharani </h1>
 <!--line-->
 <a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
