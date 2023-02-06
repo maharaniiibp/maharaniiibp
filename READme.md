@@ -1,4 +1,15 @@
 <h1> Hallo i'm Maharani </h1>
+<!--line-->
+<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<!--Statistik-->
+### Stats:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maharaniiibp&theme=github_dark)
+
+![](https://github-readme-stats.vercel.app/api?username=maharaniiibp&show_icons=true&theme=github_dark)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maharaniiibp&theme=tokyonight_duo" alt="mystreak"/>
 
 <h3>🔗 Let's Follow My Social Media:</h3>
 
